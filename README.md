@@ -1,10 +1,10 @@
-# Capital.com Data to InfluxDB
+# Data to InfluxDB
 
-This project demonstrates how to fetch real-time financial data from Capital.com and store it in InfluxDB using Node.js. The application uses WebSocket to receive data and InfluxDB to store time-series data.
+This project demonstrates how to fetch real-time financial data  and store it in InfluxDB using Node.js. The application uses WebSocket to receive data and InfluxDB to store time-series data.
 
 ## Features
 
-- Fetch real-time financial data from Capital.com via WebSocket.
+- Fetch real-time financial data via WebSocket.
 - Store the data in InfluxDB for efficient time-series management.
 
 ## Getting Started
