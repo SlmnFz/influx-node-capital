@@ -1,0 +1,16 @@
+{
+  "name": "influx-node",
+  "version": "1.0.0",
+  "description": "InfluxDB Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "SalmanFz",
+  "license": "ISC",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "@influxdata/influxdb3-client": "^0.8.0",
+    "ws": "^8.17.1"
+  }
+}
